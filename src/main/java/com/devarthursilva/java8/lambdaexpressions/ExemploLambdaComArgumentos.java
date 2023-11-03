@@ -1,4 +1,4 @@
-package com.devarthursilva.java8.lambdaExpressions;
+package com.devarthursilva.java8.lambdaexpressions;
 
 import java.util.ArrayList;
 import java.util.List;
