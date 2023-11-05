@@ -1,4 +1,4 @@
-package com.devarthursilva.java8.lambdaExpressions;
+package com.devarthursilva.java8.lambdaexpressions;
 
 public class ExemploThread {
 	
