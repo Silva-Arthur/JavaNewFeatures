@@ -43,6 +43,7 @@ public class ReflectExemplo {
 		Produto p = new Produto("Geladeira", 3000.00);
 		
 		//Instancia da classe Class
+		@SuppressWarnings("rawtypes")
 		Class cl = p.getClass();
 		
 		// Todos os métodos declarados na classe Produto
