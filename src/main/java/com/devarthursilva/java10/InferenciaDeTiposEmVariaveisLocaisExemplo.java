@@ -1,4 +1,4 @@
-package com.devarthursilva.java10.inteferenciaemvariaveis;
+package com.devarthursilva.java10;
 
 import java.util.List;
 
