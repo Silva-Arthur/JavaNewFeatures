@@ -11,4 +11,6 @@ module ModuloJavaNewFeatures {
 	//exports com.devarthursilva.java9.jigsaw;
 	exports com.devarthursilva.java8.inferenciadetipos;
 	exports com.devarthursilva.java8.lambdaexpressions;
+	
+	requires java.net.http;
 }
