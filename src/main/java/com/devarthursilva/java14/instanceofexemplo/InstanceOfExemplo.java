@@ -1,5 +1,9 @@
 package com.devarthursilva.java14.instanceofexemplo;
 
+interface Animal {
+
+}
+
 class Dog implements Animal {
 	void latir() {}
 }
