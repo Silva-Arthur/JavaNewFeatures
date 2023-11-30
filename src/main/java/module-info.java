@@ -13,4 +13,5 @@ module ModuloJavaNewFeatures {
 	exports com.devarthursilva.java8.lambdaexpressions;
 	
 	requires java.net.http;
+	requires java.desktop;
 }
