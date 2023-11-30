@@ -1,6 +1,6 @@
 package com.devarthursilva.java14.textblocks;
 
-public class TextBlocks {
+public class TextBlocksExemplo {
 	
 	public static void main(String[] args) {
 		/**
